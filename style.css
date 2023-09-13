@@ -29,3 +29,19 @@ body, html {
     color: #ffffff;
     padding: 20px;
 }
+
+.title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+
+.content-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    background-color: rgba(0, 0, 0, 0.65);
+    width: 600px;
+    height: 400px;
+	margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+}
